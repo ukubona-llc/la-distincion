@@ -46,7 +46,7 @@ You already encoded this instinctively:
 | ---- | ---------------------------------------------------------- | --------------------------------- |
 | 1    | $(E, x)$                                               | Raw distinctions                  |
 | 2    | $E(t\mid x) + \epsilon$                                 | Observation + noise               |
-| 3    | $\frac{dE_x}{dt}$                                       | Admissible dynamics               |
+| 3    | $\frac{dE_x}{dt}$                                       | [Admissible dynamics](https://en.wikipedia.org/wiki/Heraclitus)               |
 | 4    | $\frac{dE_{\bar{x}}}{dt} \pm \sqrt{\frac{d^2E_x}{dt^2}}$ | Unambiguous optimization pressure |
 | 5    | $\int E_x dt + \epsilon_x t + C_x$                       | Integrated concept / memory       |
 
